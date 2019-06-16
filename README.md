@@ -1,2 +1,2 @@
-# gocdcli
-Simple CLI for GoCD
+# GoPipe
+GoPipe is a simple CLI tool for viewing GoCD pipeline information
